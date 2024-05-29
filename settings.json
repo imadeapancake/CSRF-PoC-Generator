@@ -1,0 +1,1 @@
+{"save_directory": "saves", "default_method": "POST", "default_target_url": "TestWeb.com", "default_input_data": "email=johndoe@example.com&password=1234", "auto_submit": true}
