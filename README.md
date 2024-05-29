@@ -1,6 +1,6 @@
 CSRF PoC Generator
 
-![image-removebg-preview](https://github.com/imadeapancake/CSRF-PoC-Generator/assets/104873442/2e1f2a4c-eb53-413d-ac99-400b4193071d)
+![image-removebg-preview](https://github.com/imadeapancake/CSRF-PoC-Generator/assets/104873442/f3949eb4-e655-4fa9-9ea2-69e6e2044f94)
 
 
 
