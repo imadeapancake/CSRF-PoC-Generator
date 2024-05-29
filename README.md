@@ -2,8 +2,6 @@
 
 ![image-removebg-preview](https://github.com/imadeapancake/CSRF-PoC-Generator/assets/104873442/f3949eb4-e655-4fa9-9ea2-69e6e2044f94)
 
-This program features a user-friendly GUI built with Tkinter.
-
 #### Key Features:
 
 - **HTTP Method Selection:** Choose between various HTTP methods (POST, GET, HEAD, PUT, DELETE) for your CSRF payload.
