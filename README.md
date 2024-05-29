@@ -2,9 +2,7 @@
 
 ![image-removebg-preview](https://github.com/imadeapancake/CSRF-PoC-Generator/assets/104873442/f3949eb4-e655-4fa9-9ea2-69e6e2044f94)
 
-
-
-The **CSRF PoC Generator** is a Python-based tool designed to assist security professionals and penetration testers in creating Cross-Site Request Forgery (CSRF) Proof of Concept (PoC) payloads. This program features a user-friendly graphical interface built with Tkinter, allowing users to easily configure and generate CSRF attack vectors.
+This program features a user-friendly GUI built with Tkinter.
 
 #### Key Features:
 
