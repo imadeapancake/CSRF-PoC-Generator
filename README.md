@@ -1,4 +1,4 @@
-### CSRF PoC Generator
+#CSRF PoC Generator
 
 ![image-removebg-preview](https://github.com/imadeapancake/CSRF-PoC-Generator/assets/104873442/f3949eb4-e655-4fa9-9ea2-69e6e2044f94)
 
@@ -21,5 +21,3 @@ The **CSRF PoC Generator** is a Python-based tool designed to assist security pr
 1. **Configure Settings:** Set default values for HTTP method, target URL, auto-submit, and include head options through the settings menu.
 2. **Generate Payload:** Enter the necessary details such as target URL, input data, custom headers, and cookies. Use the "Generate" button to create the CSRF payload and save it as an HTML file.
 3. **Preview Payload:** Use the "Preview" button to view the generated CSRF payload in a new window, with syntax highlighting for better readability.
-
-This tool simplifies the process of creating CSRF attack vectors, making it easier to test the security of web applications against CSRF vulnerabilities.
